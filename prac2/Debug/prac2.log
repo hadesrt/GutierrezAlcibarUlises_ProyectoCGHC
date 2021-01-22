@@ -1,0 +1,15 @@
+﻿  Proyecto_animacion.cpp
+C:\Users\ULISES\Desktop\Proyecto_animacion_3\CGP7\Proyecto_lab\prac2\Proyecto_animacion.cpp(332,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ULISES\Desktop\Proyecto_animacion_3\CGP7\Proyecto_lab\prac2\Proyecto_animacion.cpp(648,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\ULISES\Desktop\Proyecto_animacion_3\CGP7\Proyecto_lab\prac2\Proyecto_animacion.cpp(655,15): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\ULISES\Desktop\Proyecto_animacion_3\CGP7\Proyecto_lab\prac2\Proyecto_animacion.cpp(661,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\ULISES\Desktop\Proyecto_animacion_3\CGP7\Proyecto_lab\prac2\Proyecto_animacion.cpp(667,15): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\ULISES\Desktop\Proyecto_animacion_3\CGP7\Proyecto_lab\prac2\Proyecto_animacion.cpp(889,21): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\ULISES\Desktop\Proyecto_animacion_3\CGP7\Proyecto_lab\prac2\Proyecto_animacion.cpp(928,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ULISES\Desktop\Proyecto_animacion_3\CGP7\Proyecto_lab\prac2\Proyecto_animacion.cpp(978,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ULISES\Desktop\Proyecto_animacion_3\CGP7\Proyecto_lab\prac2\Proyecto_animacion.cpp(979,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ULISES\Desktop\Proyecto_animacion_3\CGP7\Proyecto_lab\prac2\Proyecto_animacion.cpp(983,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ULISES\Desktop\Proyecto_animacion_3\CGP7\Proyecto_lab\prac2\Proyecto_animacion.cpp(984,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ULISES\Desktop\Proyecto_animacion_3\CGP7\Proyecto_lab\prac2\Proyecto_animacion.cpp(986,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ULISES\Desktop\Proyecto_animacion_3\CGP7\Proyecto_lab\prac2\Proyecto_animacion.cpp(987,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  prac2.vcxproj -> C:\Users\ULISES\Desktop\Proyecto_animacion_3\CGP7\Proyecto_lab\Debug\prac2.exe
